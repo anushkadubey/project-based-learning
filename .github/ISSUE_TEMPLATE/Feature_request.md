@@ -22,5 +22,5 @@ about: Suggest an Idea or Enhancement
 ### Is this something you're interested in working on?
 
 <!--- Yes or no -->
-- [ ] YES
-- [ ] NO
+- [ ] Yes
+- [ ] No
